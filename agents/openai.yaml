@@ -1,0 +1,4 @@
+interface:
+  display_name: "英语教案互动化改造"
+  short_description: "分阶段将静态英语教案转化为课堂互动 HTML 页面"
+  default_prompt: "使用 $interactive-english-lesson-builder 诊断我的英语教案，并从 Phase 1 开始逐步改造成互动课堂页面。"
